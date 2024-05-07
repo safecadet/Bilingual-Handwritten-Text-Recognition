@@ -1,0 +1,1 @@
+# Bilingual-Handwritten-Text-Recognition
