@@ -11,7 +11,7 @@ from line_segmentation import lineSegmentation
 from word_segmentation import wordSegmentation
 from character_recognition import characterRecognition
 
-model = load_model("model.h5")
+model = load_model("augumented_model.h5")
 
 char_mapping = [
     'O', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
